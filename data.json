@@ -4,18 +4,24 @@
       "Cantidad": "3"
     },
     {
+      "Evento": "Capacitación para DOCENTES - Bases de Datos",
+      "Descripcion": "Jueves 15 de Junio de 9 a 11 am Auditorio CRAI",
+      "image": "https://www.uniquindio.edu.co/biblioteca/publicaciones/info/uniquindio/media/img78020.jpg"
+    },
+    { 
       "Evento": "IMPORTANTE NUEVO HORARIO DE ATENCIÓN AL PÚBLICO",
       "Descripcion": "Por culminación de semestre académico, el servicio al público en la Biblioteca CRAI, a partir del Lunes 05 de Junio es de Lunes a Viernes de 8 am a 7 pm.",
       "image": "https://www.uniquindio.edu.co/biblioteca/info/uniquindio/media/mediana/th_mediana1002159.jpg"
-    },
-    { "Evento": "Todo lo que necesita saber - Repositorio Institucional CRAI",
+     },
+    { 
+      "Evento": "Todo lo que necesita saber - Repositorio Institucional CRAI",
       "Descripcion": "Solicite capacitación en el correo electrónico ricrai@uniquindio.edu.co o en la ext: 923",
       "image": "https://bibliotecauq.github.io/img77945.jpg"
      },
     {
-      "Evento": "IMPORTANTE NUEVO HORARIO DE ATENCIÓN AL PÚBLICO",
-      "Descripcion": "Por culminación de semestre académico, el servicio al público en la Biblioteca CRAI, a partir del Lunes 05 de Junio es de Lunes a Viernes de 8 am a 7 pm.",
-      "image": "https://www.uniquindio.edu.co/biblioteca/info/uniquindio/media/mediana/th_mediana1002159.jpg"
+      "Evento": "22 de Mayo - TODOS los libros en RESERVA-",
+      "Descripcion": "A partir de esta fecha solo se prestarán de un día para otro",
+      "image": "https://www.uniquindio.edu.co/biblioteca/publicaciones/info/uniquindio/media/img77936.jpg"
     }
   ]
 } 
