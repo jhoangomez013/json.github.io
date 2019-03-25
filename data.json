@@ -6,7 +6,7 @@
     {
       "Evento": "Taza de Café",
       "Descripcion": "Taza y grano de café del Quindío Colombiano",
-      "https://jhoangomez013.github.io/json.github.io/Images/taza-de-cafe.jpg"
+      "image": "https://jhoangomez013.github.io/json.github.io/Images/taza-de-cafe.jpg"
     },
     { 
       "Evento": "Grano de café",
