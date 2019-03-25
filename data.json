@@ -4,24 +4,24 @@
       "Cantidad": "4"
     },
     {
-      "Evento": "Capacitación para DOCENTES - Bases de Datos",
-      "Descripcion": "Jueves 15 de Junio de 9 a 11 am Auditorio CRAI",
-      "image": "https://www.uniquindio.edu.co/biblioteca/publicaciones/info/uniquindio/media/img78020.jpg"
+      "Evento": "Taza de Café",
+      "Descripcion": "Taza y grano de café del Quindío Colombiano",
+      "https://jhoangomez013.github.io/json.github.io/Images/taza-de-cafe.jpg"
     },
     { 
-      "Evento": "IMPORTANTE NUEVO HORARIO DE ATENCIÓN AL PÚBLICO",
-      "Descripcion": "Por culminación de semestre académico, el servicio al público en la Biblioteca CRAI, a partir del Lunes 05 de Junio es de Lunes a Viernes de 8 am a 7 pm.",
-      "image": "https://www.uniquindio.edu.co/biblioteca/info/uniquindio/media/mediana/th_mediana1002159.jpg"
+      "Evento": "Grano de café",
+      "Descripcion": "Grano de café de la mejor calidad",
+      "image": "https://jhoangomez013.github.io/json.github.io/Images/grano-de-cafe.jpg"
      },
     { 
-      "Evento": "Todo lo que necesita saber - Repositorio Institucional CRAI",
-      "Descripcion": "Solicite capacitación en el correo electrónico ricrai@uniquindio.edu.co o en la ext: 923",
-      "image": "https://bibliotecauq.github.io/img77945.jpg"
+      "Evento": "Eje Cafetero",
+      "Descripcion": "Conozca los sitios que conforman el eje cafereto-Cocora Salento, Quindío",
+      "image": "https://jhoangomez013.github.io/json.github.io/Images/eje-Cafetero.jpg"
      },
     {
-      "Evento": "22 de Mayo - TODOS los libros en RESERVA-",
-      "Descripcion": "A partir de esta fecha solo se prestarán de un día para otro",
-      "image": "https://www.uniquindio.edu.co/biblioteca/publicaciones/info/uniquindio/media/img77936.jpg"
+      "Evento": "Café del campo",
+      "Descripcion": "Disfrute de una taza de cafe en un lugar único conectándose con la naturaleza",
+      "image": "https://jhoangomez013.github.io/json.github.io/Images/cafe-campo.jpg"
     }
   ]
 } 
