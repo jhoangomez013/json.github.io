@@ -4,32 +4,32 @@ http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2721
 #EXTINF:-1 tvg-logo="https" group-title="Nacionales", RCN
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", RCN NV
+#EXTINF:-1 tvg-logo="https" group-title="Novelas", RCN NV
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", TNT
-http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2592
-
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", TNT Series
-http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2591
-
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", Cinecanal
-http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2577
-
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", TLNovelas
+#EXTINF:-1 tvg-logo="https" group-title="Novelas", TLNovelas
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2767
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", Golden
+#EXTINF:-1 tvg-logo="https" group-title="Películas", TNT
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2592
+
+#EXTINF:-1 tvg-logo="https" group-title="Películas", TNT Series
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2591
+
+#EXTINF:-1 tvg-logo="https" group-title="Películas", Cinecanal
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2577
+
+#EXTINF:-1 tvg-logo="https" group-title="Películas", Golden
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2712
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", Las Estrellas
+#EXTINF:-1 tvg-logo="https" group-title="Internacional", Las Estrellas
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1611
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", HBO
+#EXTINF:-1 tvg-logo="https" group-title="Películas", HBO
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1300
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", HBO+
+#EXTINF:-1 tvg-logo="https" group-title="Películas", HBO+
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2626
 
-#EXTINF:-1 tvg-logo="https" group-title="Nacionales", TNT Sports
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", TNT Sports
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2988
