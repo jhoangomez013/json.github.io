@@ -5,7 +5,7 @@ http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2721
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
 
 #EXTINF:-1 tvg-logo="https" group-title="Novelas", RCN NV
-http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2737
 
 #EXTINF:-1 tvg-logo="https" group-title="Novelas", TLNovelas
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2767
@@ -25,11 +25,33 @@ http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2712
 #EXTINF:-1 tvg-logo="https" group-title="Internacional", Las Estrellas
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1611
 
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", Warner
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2583
+
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", AMC
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2736
+
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", Fox
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2745
+
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", Fx
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2593
+
+#EXTINF:-1 tvg-logo="https" group-title="Deportes", Space
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2614
+
 #EXTINF:-1 tvg-logo="https" group-title="Películas", HBO
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1300
 
 #EXTINF:-1 tvg-logo="https" group-title="Películas", HBO+
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2626
 
+#EXTINF:-1 tvg-logo="https" group-title="Películas", HBO Signature
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2744
+
+#EXTINF:-1 tvg-logo="https" group-title="Películas", Fox Premium Action
+http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2625
+
 #EXTINF:-1 tvg-logo="https" group-title="Deportes", TNT Sports
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2988
+
