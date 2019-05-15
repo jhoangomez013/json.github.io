@@ -3,7 +3,10 @@ http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1778
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2592
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2591
+
+#EXTINF:-1, Cinecanal
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2577
+
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2767
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=2712
 http://tvpremiumhd.club/lista-gratuita/213014/tv/live.php?id=1611
