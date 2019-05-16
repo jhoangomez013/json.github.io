@@ -4,6 +4,9 @@ http://tvpremiumhd.club/lista-gratuita/183016/tv/live.php?id=2721
 #EXTINF:-1 tvg-logo="https" group-title="Nacionales", RCN
 http://tvpremiumhd.club/lista-gratuita/183016/tv/live.php?id=1778
 
+#EXTINF:-1 tvg-logo="https" group-title="Nacionales", Canal Uno
+http://tvpremiumhd.club/lista-gratuita/183016/tv/live.php?id=2699
+
 #EXTINF:-1 tvg-logo="https" group-title="Novelas", RCN NV
 http://tvpremiumhd.club/lista-gratuita/183016/tv/live.php?id=2737
 
